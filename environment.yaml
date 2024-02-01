@@ -1,0 +1,19 @@
+name: nmg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.13
+  - pip=23.2.1
+  - ipykernel=6.25.1
+  - pip:
+      - torch==1.13.1
+      - torchvision==0.14.1
+      - diffusers==0.18.0
+      - transformers==4.31.0
+      - accelerate==0.21.0
+      - pytorch-lightning==2.0.7
+      - einops==0.6.1
+      - ipywidgets==8.1.1
+      - tqdm==4.66.1
+      - opencv-python==4.8.0.76
