@@ -11,7 +11,7 @@ Text-guided diffusion models have become a popular tool in image synthesis, know
 ## Description
 Official implementation of Noise Map Guidance: Inversion with Spatial Context for Real Image Editing 
 
-![image](images/teaser.png)
+![image](images/teaser.jpg)
 
 ## Setup
 ```
