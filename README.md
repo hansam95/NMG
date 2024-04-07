@@ -33,5 +33,12 @@ The [nmg_pix2pix.ipynb](nmg_pix2pix.ipynb) is Notebook for NMG with [pix2pix-zer
 ## Acknowledgements
 This repository is built upon [diffusers](https://huggingface.co/docs/diffusers/index), unofficial implementation of [prompt-to-prompt](https://github.com/Weifeng-Chen/prompt2prompt/tree/main), [pix2pix-zero pipeline](https://github.com/huggingface/diffusers/blob/v0.16.0/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_pix2pix_zero.py),and [MasaCtrl](https://github.com/TencentARC/MasaCtrl).
 
-
-<!-- [LDM](https://github.com/CompVis/latent-diffusion), [ControlNet](https://github.com/lllyasviel/ControlNet/tree/main), [Uni-ControlNet](https://github.com/ShihaoZhaoZSH/Uni-ControlNet), and [U<sup>2</sup>-Net](https://github.com/xuebinqin/U-2-Net). ya bois are the real mvps. -->
+## Citation
+```bibtex
+@inproceedings{cho2023noise,
+  title={Noise Map Guidance: Inversion with Spatial Context for Real Image Editing},
+  author={Cho, Hansam and Lee, Jonghyun and Kim, Seoung Bum and Oh, Tae-Hyun and Jeong, Yonghyun},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2023}
+}
+```
