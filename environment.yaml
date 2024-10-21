@@ -17,3 +17,4 @@ dependencies:
       - ipywidgets==8.1.1
       - tqdm==4.66.1
       - opencv-python==4.8.0.76
+      - huggingface_hub==0.25.2
